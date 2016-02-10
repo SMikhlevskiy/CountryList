@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="difficulties">
+        <item>
+            <string name="Name">1</string>
+            <integer name="Code">11</integer>
+        </item>
+        <item>
+            <string name="Name">2</string>
+            <integer name="Code">22</integer>
+        </item>
+        <item>
+            <string name="Name">3</string>
+            <integer name="Code">33</integer>
+        </item>
+    </array>
+
+</resources>

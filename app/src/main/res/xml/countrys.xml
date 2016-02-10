@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Countrys>
+
+    <Country
+        Code="93"
+        Name="Afghanistan" />
+
+    <Country
+        Code="355"
+        Name="Albania" />
+
+    <Country
+        Code="21"
+        Name="Algeria" />
+
+    <Country
+        Code="684"
+        Name="American Samoa" />
+
+    <Country
+        Code="376"
+        Name="Andorra" />
+
+    <Country
+        Code="244"
+        Name="Angola" />
+
+    <Country
+        Code="1264"
+        Name="Anguilla" />
+
+    <Country
+        Code="1268"
+        Name="Antigua and Barbuda" />
+
+    <Country
+        Code="54"
+        Name="Argentina" />
+
+    <Country
+        Code="374"
+        Name="Armenia" />
+
+    <Country
+        Code="297"
+        Name="Aruba" />
+
+    <Country
+        Code="247"
+        Name="Ascension" />
+
+    <Country
+        Code="61"
+        Name="Australia" />
+
+    <Country
+        Code="672"
+        Name="Australian External Territories" />
+
+    <Country
+        Code="43"
+        Name="Austria" />
+
+    <Country
+        Code="994"
+        Name="Azerbaijan" />
+
+    <Country
+        Code="351"
+        Name="Azores" />
+
+    <Country
+        Code="1242"
+        Name="Bahamas" />
+
+    <Country
+        Code="973"
+        Name="Bahrain" />
+
+    <Country
+        Code="880"
+        Name="Bangladesh" />
+
+    <Country
+        Code="1246"
+        Name="Barbados" />
+
+    <Country
+        Code="375"
+        Name="Belarus" />
+
+    <Country
+        Code="32"
+        Name="Belgium" />
+
+    <Country
+        Code="501"
+        Name="Belize" />
+
+    <Country
+        Code="229"
+        Name="Benin" />
+
+    <Country
+        Code="1441"
+        Name="Bermuda" />
+
+    <Country
+        Code="975"
+        Name="Bhutan" />
+
+    <Country
+        Code="591"
+        Name="Bolivi" />
+
+    <Country
+        Code="387"
+        Name="Bosnia and Herzegovina" />
+
+    <Country
+        Code="55"
+        Name="Brazil" />
+
+    <Country
+        Code="1284"
+        Name="British Virgin Islands" />
+
+    <Country
+        Code="673"
+        Name="Brunei" />
+
+    <Country
+        Code="359"
+        Name="Bulgaria" />
+
+    <Country
+        Code="226"
+        Name="Burkina Faso" />
+
+    <Country
+        Code="257"
+        Name="Burundi" />
+
+    <Country
+        Code="855"
+        Name="Cambodia" />
+
+</Countrys>

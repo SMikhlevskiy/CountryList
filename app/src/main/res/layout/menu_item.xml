@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/shape_row_on"
+    android:orientation="horizontal">
+    <!--ImageView
+        android:id="@+id/image"
+        android:layout_width="@dimen/midl_text_size"
+        android:layout_height="@dimen/midl_text_size"
+        android:src="@mipmap/bank"
+        /-->
+    <TextView
+        android:id="@+id/itemName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:text="burundi"
+        android:textColor="@color/colorWhite"
+        android:textSize="@dimen/midl_text_size" />
+
+
+    <smikhlevskiy.countrylist.SwipeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true">
+
+        <LinearLayout
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/itemCode"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:layout_alignParentRight="true"
+                android:text="000"
+                android:textColor="@color/colorOrange"
+                android:textSize="@dimen/midl_text_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimaryDark">
+
+            <RelativeLayout
+                android:id="@+id/pen_button"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+
+                android:clickable="true">
+
+                <View
+                    android:layout_width="14dp"
+                    android:layout_height="14dp"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/pen" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/delete_button"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+
+                android:clickable="true">
+
+                <View
+                    android:layout_width="14dp"
+                    android:layout_height="14dp"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/del" />
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </smikhlevskiy.countrylist.SwipeLayout>
+
+
+</RelativeLayout>
